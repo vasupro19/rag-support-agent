@@ -2,7 +2,7 @@
 
 An AI customer-support agent that answers questions from company policy using vector search, and takes real actions on order data through tool calls. Refund rules are enforced on the server, so the model can't be talked into breaking them.
 
-**Live demo:** _coming soon_
+**Live demo:** [vasu-rag-agent.vercel.app](https://vasu-rag-agent.vercel.app)
 
 Built with Next.js, TypeScript, the Vercel AI SDK, Google Gemini and Supabase (PostgreSQL + pgvector).
 
